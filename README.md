@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-<img align="right" alt="Coding" width="400"src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="Coding" width="400">
 
 <p align="left"> <a href="https://twitter.com/anasaamir16" target="blank"><img src="https://img.shields.io/twitter/follow/anasaamir16?logo=twitter&style=for-the-badge" alt="anasaamir16" /></a> </p>
 
