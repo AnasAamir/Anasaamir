@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/anasaamir16" target="blank"><img src="https://img.shields.io/twitter/follow/anasaamir16?logo=twitter&style=for-the-badge" alt="anasaamir16" /></a> </p>
 
-- 🔭 I’m currently working on **React native**
+- 🔭 I’m currently working on **ReactJS**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **AI and Chatbot**
 
 - 👯 I’m looking to collaborate on **web, mobile applications**
 
 - 💬 Ask me about **JS,react,php**
 
-- 📫 How to reach me **anasaamir18@gmail.com**
+- 📫 How to reach me **ianasguru@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
