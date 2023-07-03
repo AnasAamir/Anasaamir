@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **AI and Chatbot**
 
-- 👯 I’m looking to collaborate on **web, mobile applications**
+- 👯 I’m looking to collaborate on **Web and Mobile Apps**
 
 - 💬 Ask me about **JS,react,php**
 
