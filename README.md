@@ -52,7 +52,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="80">
+        <img src="https://d3uyj2gj5wa63n.cloudfront.net/wp-content/uploads/2021/07/teachable_machine_logo.png" width="80">
     </td>
  <td align='center'>
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
