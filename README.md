@@ -33,7 +33,7 @@
     </td>
 
   <td align='center' width="200">
-        <img src="https://www.vecteezy.com/vector-art/21608790-chatgpt-logo-chat-gpt-icon-on-black-background"  width="80">
+        <img src="[https://www.vecteezy.com/vector-art/21608790-chatgpt-logo-chat-gpt-icon-on-black-background](https://static.vecteezy.com/system/resources/previews/021/608/790/non_2x/chatgpt-logo-chat-gpt-icon-on-black-background-free-vector.jpg)"  width="80">
     </td>
  <td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
