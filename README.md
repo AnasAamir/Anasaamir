@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **ReactJS**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Generative AI and chatbot development**
 
 - 👯 I’m looking to collaborate on **Web and Mobile Apps**
 
-- 💬 Ask me about **JS,React,PHP**
+- 💬 Ask me about **AI,ML*
 
-- 📫 How to reach me **ianasguru@gmail.com**
+- 📫 How to reach me **anasaamir18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
