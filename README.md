@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Web and Mobile Apps**
 
-- 💬 Ask me about **AI,ML*
+- 💬 Ask me about **AI,ML**
 
 - 📫 How to reach me **anasaamir18@gmail.com**
 
