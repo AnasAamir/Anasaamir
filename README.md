@@ -40,7 +40,7 @@
     </td>
 
  <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqmIDTQUt0dizDjfcFUhN39jID9_zxjs_01Q&s">
     </td>
  
 </tr>
