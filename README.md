@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/anasaamir16" target="blank"><img src="https://img.shields.io/twitter/follow/anasaamir16?logo=twitter&style=for-the-badge" alt="anasaamir16" /></a> </p>
 
-- 🔭 I’m currently working on **ReactJS**
+- 🔭 I’m currently working on **Shopify Liquid**
 
-- 🌱 I’m currently learning **Generative AI and chatbot development**
+- 🌱 I’m currently learning **Webflow, Liquid**
 
 - 👯 I’m looking to collaborate on **Web and Mobile Apps**
 
