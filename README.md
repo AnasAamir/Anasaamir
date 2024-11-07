@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anas</h1>
-<h3 align="center">Web and Chatbot developer</h3>
+<h3 align="center">Web developer</h3>
 
 <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="Coding" width="400">
 
